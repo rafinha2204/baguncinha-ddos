@@ -1,6 +1,6 @@
 # BAGUNCINHA DDOS
 
-Script de DDOS com proxy desenvolvidor em Python 2.7
+Script de DDOS com proxy desenvolvido em Python 2.7
 
 
                                                            .//:----..........-..---/:`             
